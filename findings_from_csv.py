@@ -1,0 +1,1 @@
+features_for_inflation_model = ['CPI', 'housing prices', 'Unemployment', 'personal consumption expenditures', 'money supply']
